@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @Lannn45
 
+https://ibb.co/bL6Dwzf
+
 Twitter   : [Twitter](https://twitter.com/Lannn45)
 
 Instagram : [Instagram](https://instagram.com/syafrilma_)
+
+Website : SOON
 
 
 > “If you don’t know anything about computers, 
