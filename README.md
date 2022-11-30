@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Lannn45
+ 
+![Logo](https://user-images.githubusercontent.com/117993673/204775099-81e4b4e4-d5b7-41a0-910c-041a9ff15f02.png)
 
-[![N|Solid][url=https://imgbb.com/][img]https://i.ibb.co/6byL9gd/Logo.png[/img][/url]
 
 Twitter   : [Twitter](https://twitter.com/Lannn45)
 
