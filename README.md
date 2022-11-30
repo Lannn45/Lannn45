@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Lannn45
-- 👀 I’m interested in Code
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+> “If you don’t know anything about computers, 
+> just remember that they are machines that do 
+> exactly what you tell them but often surprise 
+> you in the result.” — Richard Dawkins
 
 <!---
 Lannn45/Lannn45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
