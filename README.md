@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lannn45
 
-https://ibb.co/bL6Dwzf
+[![N|Solid][url=https://imgbb.com/][img]https://i.ibb.co/6byL9gd/Logo.png[/img][/url]
 
 Twitter   : [Twitter](https://twitter.com/Lannn45)
 
