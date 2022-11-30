@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lannn45
- 
+<p style="font-size:14px" align="center">
 ![Logo](https://user-images.githubusercontent.com/117993673/204775099-81e4b4e4-d5b7-41a0-910c-041a9ff15f02.png)
 
 
