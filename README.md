@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @Lannn45
 
+Twitter   : [Twitter](https://twitter.com/Lannn45)
+Instagram : [Instagram](https://instagram.com/syafrilma_)
+
+
 > “If you don’t know anything about computers, 
 > just remember that they are machines that do 
 > exactly what you tell them but often surprise 
