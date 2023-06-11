@@ -3,13 +3,6 @@
 ![Logo](https://user-images.githubusercontent.com/117993673/204775099-81e4b4e4-d5b7-41a0-910c-041a9ff15f02.png)
 
 
-Twitter   : [Twitter](https://twitter.com/Lannn45)
-
-Instagram : [Instagram](https://instagram.com/syafrilma_)
-
-Website : SOON
-
-
 > “If you don’t know anything about computers, 
 > just remember that they are machines that do 
 > exactly what you tell them but often surprise 
